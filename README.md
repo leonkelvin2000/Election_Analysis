@@ -27,7 +27,8 @@ The analysis of the electrion show that:
 -The winner of the election was:
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 ## Challange Overview
+This chanllange was created to generalize the script so if the CVS data sheet changes - it can still generate accurate infomration
 
-## Challange Summary
-  
+## Challange Summary - Election-Audit Summary
+This Election-Audit script was build flexible to acoommendate changes when a new Election_results.CSV takes place and it can still provide accurate information. The two things needed to be done to modiify the script will be changing the path for the file we will need to adjust it to and modifying the script to detect the format of the election_results.CSV to confirm the columns are in the proper place to then prcoess the rest of the rows properly. 
   
